@@ -1,3 +1,3 @@
-OpenDataCode
+Open Data Code
 
-All about Open data initiatives around the web.
+All about Open data initiatives around the globe.
