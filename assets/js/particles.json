@@ -1,19 +1,4 @@
-;(function(){
-
-			// Menu settings
-			$('#menuToggle, .menu-close').on('click', function(){
-				$('#menuToggle').toggleClass('active');
-				$('body').toggleClass('body-push-toleft');
-				$('#theMenu').toggleClass('menu-open');
-			});
-      //login form
-      $('.message a').click(function(){
-      $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
-});
-
-})(jQuery)
-
-particlesJS("particles-js", {
+{
   "particles": {
     "number": {
       "value": 80,
@@ -122,5 +107,4 @@ particlesJS("particles-js", {
     }
   },
   "retina_detect": true
-});
-
+}
