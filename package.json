@@ -1,15 +1,15 @@
 {
-  "name": "open-data-code",
-  "version": "1.0.1",
-  "author": "Armands",
-   "engines": {
-    "node": "6.10.2"
-  }
-  "scripts": {   
-    "start": "node server.js"    
+  "name" : "open-data-code",
+  "version" : "1.0.1",
+  "author" : "Armands",
+   "engines" : {
+    "node" : "6.10.2"
   },
-  "dependencies": {
-    "express": "4.15.2"
+  "scripts" : {   
+    "start" : "node server.js"    
+  },
+  "dependencies" : {
+    "express" : "4.15.2"
     },
-  "license": "MIT"
+  "license" : "MIT"
 }
